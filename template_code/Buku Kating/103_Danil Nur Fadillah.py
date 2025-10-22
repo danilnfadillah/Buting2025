@@ -99,12 +99,12 @@ menu = streamlit_menu()
 if menu == "Kesekjenan":
     def kesekjenan():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tvVvfHjLDUOMYXVr3ZFqXfUoRZ2r1aqY",
-            "https://drive.google.com/uc?export=view&id=1qH6nKFVwwSn8woO9tPq18yXlsefCbfvg",
-            "https://drive.google.com/uc?export=view&id=195eQZBn35VwbTfmnAWk1gvE9jhz5gFi5",
-            "https://drive.google.com/uc?export=view&id=1BOWk0qmHreVyNK8GIifqa_cPdqR0V7FO",
-            "https://drive.google.com/uc?export=view&id=1Rn7XDgN112PkyCLuP0-8IA3sZXuhmLKP",
-            "https://drive.google.com/uc?export=view&id=1cukEc2ErSbsfpI18J4WUTTUqudRjMX0w",
+            "https://drive.google.com/uc?export=view&id=1KkinDhnIjxwUp2ebfu9pv3XiCbQMnt2o",
+            "https://drive.google.com/uc?export=view&id=1ALz0Yspu8vjXwKoou0gvyKH_lP1lKpNq",
+            "https://drive.google.com/uc?export=view&id=1VLAL_jTcmK_2qfi0XxlKaFfwLIindT2d",
+            "https://drive.google.com/uc?export=view&id=1XHHFutE3-tMHny3rNWlqyb2JIJz7YORZ",
+            "https://drive.google.com/uc?export=view&id=1Sj4wxUhXDHqORxJN45MuBQYOrdGKP61t",
+            "https://drive.google.com/uc?export=view&id=1YxE7nwOYMnKBX3NQBZXrJciI7OrKT6po",
         ]
         data_list = [
             {
@@ -115,8 +115,8 @@ if menu == "Kesekjenan":
                 "alamat": "Pulau Damar",
                 "hobbi": "Menyanyi",
                 "sosmed": "@_erendraa",
-                "kesan": "Sangat berwibawa dan keren",  
-                "pesan":"Semangat terus bang menjalani hidup sebagai ketua"
+                "kesan": "Humble dan bisa diajak bercanda",  
+                "pesan":"Semangat terus selama menjabat sebagai Kahim"
             },
             {
                 "nama": "Johannes Krisjon Silitonga",
@@ -126,8 +126,8 @@ if menu == "Kesekjenan":
                 "alamat": "Jl.Lapas",
                 "hobbi": "Baca Buku SQL",
                 "sosmed": "@johanneskrisjnnn",
-                "kesan": "Keren banget karna ngajarin ilmu data sains",  
-                "pesan":"Semoga kehidupan kuliahnya berjalan mulus"
+                "kesan": "Orangnya santai dan juga punya Integritas yang tinggi",  
+                "pesan":"Semangat nyusun TA nya bang Jo!!!"
             },
             {
                 "nama": "Farahanum Afifah Ardiansyah",
@@ -137,8 +137,8 @@ if menu == "Kesekjenan":
                 "alamat": "Korpri",
                 "hobbi": "Cutekahim",
                 "sosmed": "@farahanumafifah",
-                "kesan": "Bisa ada diposisi ini aja udah keren banget",  
-                "pesan":"Semoga ga banyak masalah menghampiri"
+                "kesan": "Kakaknya baik dan juga ramah",  
+                "pesan":"Semoga kuliahnya lancar kak !!!"
             },
             {
                 "nama": "Syadza Puspadari Azhar",
@@ -148,7 +148,7 @@ if menu == "Kesekjenan":
                 "alamat": "Belwis",
                 "hobbi": "Membaca",
                 "sosmed": "@puspadrr",
-                "kesan": "Udah hobi membaca, punya posisi penting pula",  
+                "kesan": "Kakaknya baik dan kalem",  
                 "pesan":"Semoga lancar-lancar saja kehidupannya"
             },
             {
